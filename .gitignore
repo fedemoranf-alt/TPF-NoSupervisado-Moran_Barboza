@@ -1,0 +1,28 @@
+# Datos (el notebook los descarga automáticamente)
+data/*
+!data/.gitkeep
+
+# Material que no se publica en el repositorio
+presentacion/
+Guía de Implementación del Proyecto Final/
+PLAN.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# SO / editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Google Drive
+*.gdoc
+*.gsheet
