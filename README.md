@@ -4,8 +4,8 @@
 
 **Autores:** Federico Moran · Juan Barboza
 
-<!-- TODO: reemplazar USUARIO/REPO cuando el repo esté en GitHub -->
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USUARIO/REPO/blob/main/notebooks/TPF_NoSupervisado_Moran_Barboza.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-Lt_lY2_Pml4ACgvVstlCKixHlTx3WGN?usp=sharing)
 
 ## Descripción
 
@@ -61,7 +61,7 @@ Se fijan semillas aleatorias (`random_state=42`) en todos los algoritmos estocá
 ## Informe
 
 El informe técnico está disponible en [`docs/index.md`](docs/index.md) y publicado
-como sitio en GitHub Pages: `https://USUARIO.github.io/REPO/` <!-- TODO: actualizar URL -->
+como sitio en GitHub Pages: `https://fedemoranf-alt.github.io/TPF-NoSupervisado-Moran_Barboza/` 
 
 ## Referencias
 
