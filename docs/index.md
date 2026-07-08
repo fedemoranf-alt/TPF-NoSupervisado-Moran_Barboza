@@ -4,7 +4,13 @@
 
 **Autores:** Federico Moran · Juan Barboza
 
-> Código y materiales: repositorio del proyecto en GitHub. El análisis completo, con todas las salidas y justificaciones intermedias, se encuentra en el notebook [`notebooks/TPF_NoSupervisado_Moran_Barboza.ipynb`](https://github.com/USUARIO/REPO/blob/main/notebooks/TPF_NoSupervisado_Moran_Barboza.ipynb), ejecutable de punta a punta sin pasos previos. <!-- TODO: actualizar USUARIO/REPO -->
+> Código y materiales: repositorio del proyecto en GitHub. El análisis completo, con todas las salidas y justificaciones intermedias, se encuentra en el notebook `notebooks/TPF_NoSupervisado_Moran_Barboza.ipynb`, ejecutable de punta a punta sin pasos previos.  
+> 
+> El link del repositorio es:
+> https://github.com/fedemoranf-alt/TPF-NoSupervisado-Moran_Barboza
+> 
+> Link al GitHub Pages:
+> https://fedemoranf-alt.github.io/TPF-NoSupervisado-Moran_Barboza/
 
 ---
 
